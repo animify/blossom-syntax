@@ -1,0 +1,16 @@
+{
+  "name": "blossom-syntax",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "A short description of your syntax theme",
+  "keywords": [
+    "blossom",
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/aotik/blossom-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
