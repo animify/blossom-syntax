@@ -1,5 +1,3 @@
-# blossom-syntax theme
+# Blossom Syntax for Atom
 
-A short description of your theme.
-
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+A clean, dark and minimal UI theme for Atom. To be paired with blossom-ui.

@@ -1,16 +1,19 @@
 {
   "name": "blossom-syntax",
   "theme": "syntax",
-  "version": "0.1.0",
-  "description": "A short description of your syntax theme",
+  "version": "0.1.1",
+  "description": "Clean, dark, high-contrast theme based off One Dark syntax.",
   "keywords": [
     "blossom",
     "syntax",
-    "theme"
+    "theme",
+    "dark",
+    "clean",
+    "minimal"
   ],
   "repository": "https://github.com/aotik/blossom-syntax",
   "license": "MIT",
   "engines": {
-    "atom": ">=1.0.0 <2.0.0"
+    "atom": ">0.40.0"
   }
 }
