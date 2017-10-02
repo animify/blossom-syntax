@@ -11,7 +11,7 @@
     "clean",
     "minimal"
   ],
-  "repository": "https://github.com/aotik/blossom-syntax",
+  "repository": "https://github.com/animify/loona-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.40.0"
