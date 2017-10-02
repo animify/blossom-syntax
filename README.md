@@ -1,3 +1,8 @@
-# Blossom Syntax for Atom
+# Loona Syntax theme for Atom.
 
-A clean, dark and minimal UI theme for Atom. To be paired with blossom-ui.
+A dark, high contrast syntax theme for Atom. To be paired with loona-ui.
+
+More details coming soon...
+
+### License
+See LICENSE.md
